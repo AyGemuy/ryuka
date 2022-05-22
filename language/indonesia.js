@@ -94,7 +94,7 @@ lapor owner agar segera di perbaiki 🙏
 exports.listMenu = (time, salam, pushname, prefix) => {
     return `*Selamat ${salam} ${pushname}*
 *⌚Time Server : ${time}*
-*📚 List-Menu Alphabot-Md :*
+*📚 List-Menu ༄Riss Botz࿐ :*
 
 ╭─❒ 「 Bot Info 」 
 ├ ${prefix}owner
@@ -815,7 +815,7 @@ Sanksi: *PERMANENT BLOCK*
 ➡️ Script ini masih private dan tidak pernah diperjual belikan ,bijaklah dalam mengetahui penipu.
 
 🗯️ Boleh saya menambah ke grup?
-➡️ Untuk sementara bot dalam status free to add.
+➡️ Tanya owner
 
 🗯️ Prefixnya apa ya?
 ➡️ Bot ini menggunakan multi prefix. Berarti anda bisa menggunakan prefix #, . , Dan prefix wajar lainnya.
@@ -854,12 +854,19 @@ Recode : https://youtube.com/playlist?list=PLFCglBzFPHG7vSQaa9S3P8yfla_d9w-2-
 }
 exports.tos = (ownernomer) => {
     return `
-*-------「 DONATE 」 -------*
+*-------「 SEWABOT 」 -------*
 
 Hai kak ☺️ 
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan cara donasi
 
 Berapapun donasi kalian akan sangat berarti 👍
+
+
+           *SEWABOT*
+  
+    1MINGGU  5k
+    1BULAN   10K
+    PERMANEN 25k
 
 Thanks!
 
