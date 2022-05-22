@@ -1159,6 +1159,12 @@ break
                 let result = args[0].split('https://chat.whatsapp.com/')[1]
                 await alpha.groupAcceptInvite(result).then((res) => reply(jsonformat(res))).catch((err) => reply(jsonformat(err)))
             }
+break
+            case 'bcallmedia': {
+                 if (!isCreator) throw mess.owner
+                 let anu = await store.chats.all().map(v => v.id)
+                 m.reply(`Mengirim Broadcast Ke ${anu.length} Chat\nWaktu Selesai ${anu.length * 1.5} detik`)
+                 for (let i of anu) {
             break
             case 'tagall': case 'infoall':
                 if (!m.isGroup) return reply(lang.groupOnly())
