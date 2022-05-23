@@ -1159,7 +1159,25 @@ break
                 let result = args[0].split('https://chat.whatsapp.com/')[1]
                 await alpha.groupAcceptInvite(result).then((res) => reply(jsonformat(res))).catch((err) => reply(jsonformat(err)))
             }
-            break
+break
+            case 'bcallmedia': {
+            if (!isCreator) throw mess.owner
+            let anu = await store.chats.all().map(v => v.id)
+            m.reply(`Mengirim Broadcast Ke ${anu.length} Chat\nWaktu Selesai ${anu.length * 1.5} detik`)
+            for (let i of anu) {
+
+            await sleep(1500)
+
+            alpha.copyNForward(i, quoted.fakeObj, false, {quoted:ftroli})
+
+            }
+
+            m.reply(`Sukses Mengirim Broadcast Ke ${anu.length} Chat`)
+
+            }
+           
+break
+           
             case 'tagall': case 'infoall':
                 if (!m.isGroup) return reply(lang.groupOnly())
                 if (!(isGroupAdmins || isGroupOwner )) return reply(lang.adminOnly())
