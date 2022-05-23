@@ -19,7 +19,7 @@ global.autoread = false // auto read pesan / message
 
 // Other
 global.botname = "༄Riss Botz࿐" //namabot kalian
-global.ownername= "Call Me Riss" //nama kalian
+global.ownername= "༄Riss Botz࿐" //nama kalian
 global.myweb ="https://chat.whatsapp.com/E5lPT7myQ8xFe5tLoR2GY7" //bebas asal jan hapus
 global.youtube = "https://youtube.com/channel/UCx2gLWmH0M4QD-KSwOX17mQ" //bebas asal jan hapus
 global.github = "http://tiktok.com/@hy.riss02" //bebas
@@ -32,7 +32,7 @@ global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.owner = ["6281256023873","6281256023873","081256023873"] //ganti agar fitur owner bisa di gunakan
 global.packname = '©༄Riss Botz࿐' //sticker wm ubah
-global.author = 'Di Buat Oleh Riss Botz' //sticker wm ganti nama kalian
+global.author = 'Riss' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
@@ -42,7 +42,7 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    sukses: '🤗Done, Oke Desu~',
+    sukses: '🤗Done, Oke kak~',
     admin: 'Perintah Ini Hanya Bisa Digunakan Oleh Admin !',
     botAdmin: 'Perintah Ini Hanya Bisa Digunakan Ketika Bot Menjadi Admin !',
     owner: 'Perintah Ini Hanya Bisa Digunakan Oleh Owner !',
