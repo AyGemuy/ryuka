@@ -1173,11 +1173,10 @@ break
             }
 
             m.reply(`Sukses Mengirim Broadcast Ke ${anu.length} Chat`)
-
+            
             }
-           
-break
-           
+         
+break  
             case 'tagall': case 'infoall':
                 if (!m.isGroup) return reply(lang.groupOnly())
                 if (!(isGroupAdmins || isGroupOwner )) return reply(lang.adminOnly())
