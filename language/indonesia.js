@@ -857,18 +857,29 @@ Recode : https://youtube.com/playlist?list=PLFCglBzFPHG7vSQaa9S3P8yfla_d9w-2-
 exports.tos = (ownernomer) => {
     return `
 *-------「 SEWABOT 」 -------*
-
-Hai kak ☺️ 
-Kalian bisa mendukung saya agar bot ini tetap up to date dengan cara donasi
-
-Berapapun donasi kalian akan sangat berarti 👍
-
-
-           *SEWABOT*
-  
-    1MINGGU  5k
-    1BULAN   10K
-    PERMANEN 25k
+┃ 
+┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰
+┃   ⬣ SEWA + PREM ⬣
+┃⬡ 1 MINGGU : 5K
+┃⬡ 1 BULAN : 10K
+┃⬡ PERMANEN : Tanya owner
+┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰
+┃       〔 KELEBIHAN BOT 〕
+┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰
+┃⬡ ON 24 JAM
+┃⬡ RUN DI HEROKU
+┃⬡ ANTI DELAY 
+┃⬡ ANTILINK
+┃⬡ WELCOME IMAGE
+┃⬡ LEFT
+┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰
+┃           ⬣〔  SISTEM 〕⬣
+┃⬡ TF - SEND BUKTI - BOT JOIN
+┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰
+┃⬣━ *PAYMENT* :
+┃ PULSA
+┃
+┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 
 Thanks!
 
