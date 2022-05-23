@@ -5,7 +5,7 @@ exports.wait = () => {
     return `⏳ Mohon tunggu sebentar~`
 }
 exports.ok = () => {
-    return `✅ Done. Ok desu~`
+    return `✅ Done. Ok kak~`
 }
 
 exports.err = () => {
@@ -124,6 +124,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ├ ${prefix}broadcast [text]
 ├ ${prefix}bc [text]
 ├ ${prefix}bcgc [text]
+├ ${prefix}bcallmedia
 ├ ${prefix}nsfw [on/off]
 ├ ${prefix}autorespond [on/off]
 ├ ${prefix}antiviewonce [on/off]
@@ -782,6 +783,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 
 ╭─❒ 「 TqTo 」 
 ├ My God
+
 ├ My Parents
 ├ Fatih A.
 ├ Ferdi
@@ -826,7 +828,7 @@ Sanksi: *PERMANENT BLOCK*
 
 Jika sudah dipahami rules-nya, silakan ketik *${prefix}allmenu* untuk memulai!
 
-⚠️ Segala kebijakan dan ketentuan Alphabot di pegang oleh owner dan segala perubahan kebijakan, sewaktu waktu owner berhak mencabut, memblokir user(*﹏*) 
+⚠️ Segala kebijakan dan ketentuan Riss Botz di pegang oleh owner dan segala perubahan kebijakan, sewaktu waktu owner berhak mencabut, memblokir user(*﹏*) 
 
 Arigatou Gozaimasu! Untuk kalian user ramah dan Beberapa orang yg ikut membantu juga dalam project pembuatan Alphabot
 😖🙏
@@ -1464,6 +1466,7 @@ exports.tqto = () =>{
 	return`╭─❒ 「 TqTo 」 
 ├ My God
 ├ My Parents
+├ Riss
 ├ Fatih A.
 ├ Ferdi
 ├ DikaArdnt
@@ -1471,6 +1474,8 @@ exports.tqto = () =>{
 ├ Nurutomo
 ├ Rashid
 ├ ZeeoneOfc
+├ Sanzy
+├ Wrann
 ├ Penyedia Module
 ╰❒ And All Support
 `
