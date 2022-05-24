@@ -18,8 +18,8 @@ global.autoread = false // auto read pesan / message
 //global.available = false //status online (online)
 
 // Other
-global.botname = "༄Riss Botz࿐" //namabot kalian
-global.ownername= "༄Riss Botz࿐" //nama kalian
+global.botname = "༄RISS BOTZ࿐" //namabot kalian
+global.ownername= "༄RISS BOTZ࿐" //nama kalian
 global.myweb ="https://chat.whatsapp.com/E5lPT7myQ8xFe5tLoR2GY7" //bebas asal jan hapus
 global.youtube = "https://youtube.com/channel/UCx2gLWmH0M4QD-KSwOX17mQ" //bebas asal jan hapus
 global.github = "http://tiktok.com/@hy.riss02" //bebas
